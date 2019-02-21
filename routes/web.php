@@ -20,5 +20,5 @@ Route::get('/home', function () {
 });
 
 Route::get('/login', function () {
-    return view('login2');
+    return view('login');
 });
