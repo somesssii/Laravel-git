@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel master
+                    Laravel masters
                 </div>
 
                 <div class="links">
